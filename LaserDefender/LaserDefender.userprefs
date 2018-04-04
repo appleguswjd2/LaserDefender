@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Projectile.cs">
+    <Files>
+      <File FileName="Assets\Entities\Players\PlayerController.cs" Line="55" Column="25" />
+      <File FileName="Assets\Entities\EnemyFormation\EnemySpawner.cs" Line="12" Column="1" />
+      <File FileName="Assets\Scripts\LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Projectile.cs" Line="6" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
